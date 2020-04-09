@@ -271,4 +271,5 @@ target_link_libraries( # Specifies the target library.
 ## 5.其他
 具体代码可以参考native-lib.cpp
 
+展示的视频文件在video目录下
 
